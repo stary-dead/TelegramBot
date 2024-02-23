@@ -45,7 +45,6 @@ class Bot:
         self._discover_functions()
         for func_handler in self.functions:
             routing_info = func_handler.info()
-
             trigger_info = routing_info[0]
             handler_info = routing_info[1]
             if trigger_info == "command":  # Проверяем, если это команда
@@ -54,9 +53,7 @@ class Bot:
                     m_handler(func_handler.init(env=self.env, bot=self.bot, db=self.db))          
             elif trigger_info == "callback_data":  # Проверяем, если это callback_data
                 for callback_data in handler_info['data']:
-                    c_handler = self.bot.callback_query_handler(func=lambda call: call.data == callback_data)
+                    c_handler = self.bot.callback_query_handler(func=lambda call, data=callback_data: call.data == data)
                     c_handler(func_handler.init(env=self.env, bot=self.bot, db=self.db))
-
-
     
     
