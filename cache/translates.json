@@ -1,0 +1,107 @@
+[
+    {
+        "key": "help",
+        "en": "Help message",
+        "ru": "Сообщение “помощь”"
+    },
+    {
+        "key": "broadcast",
+        "en": "Enter a message for the mailing list",
+        "ru": "Введите сообщение для рассылки"
+    },
+    {
+        "key": "menu",
+        "en": "❤️ Follow us on Twitter to follow all the updates of the bot:\n<link location>\n\n🏠 Menu:",
+        "ru": "❤️ Подписывайтесь на нас в Twitter , чтобы следить за всеми обновлениями  бота:\n<место для ссылки>\n\n🏠 Меню:"
+    },
+    {
+        "key": "female",
+        "en": "Female",
+        "ru": "Женский"
+    },
+    {
+        "key": "male",
+        "en": "Male",
+        "ru": "Мужской"
+    },
+    {
+        "key": "incorrect_name",
+        "en": "Pleese, type correct name",
+        "ru": "Пожалуйста, введите корректное имя"
+    },
+    {
+        "key": "pass",
+        "en": "Pass",
+        "ru": "Пропустить"
+    },
+    {
+        "key": "ask_changes",
+        "en": "What do yoy want to change?",
+        "ru": "Что вы хотите изменить?"
+    },
+    {
+        "key": "list_changes",
+        "en": "1. Name\\n2. Gender\\n3. Avatar\\n4. Age\\n5. Email\\n6. Country",
+        "ru": "1. Имя\\n2. Пол\\n3. Аватар\\n4. Возраст\\n5. Email\\n6. Страна"
+    },
+    {
+        "key": "change_language",
+        "en": "The language has been successfully changed!",
+        "ru": "Язык успешно изменен!"
+    },
+    {
+        "key": "welcome_back_text",
+        "en": "Welcome back to our bot!",
+        "ru": "С возвращением в наш бот"
+    },
+    {
+        "key": "send_email",
+        "en": "Please send your email",
+        "ru": "Пожалуйста, пришлите ваш email"
+    },
+    {
+        "key": "choose_one",
+        "en": "Please choose one of the options",
+        "ru": "Пожалуйста, выберите один из вариантов"
+    },
+    {
+        "key": "choose_change",
+        "en": "What do you want to change?",
+        "ru": "Что вы хотите изменить?"
+    },
+    {
+        "key": "reg_done",
+        "en": "Successful registration!",
+        "ru": "Успешная регистрация!"
+    },
+    {
+        "key": "choose_gender",
+        "en": "Pleese choose your gender or specify your own.",
+        "ru": "Выбери пол или укажи свой"
+    },
+    {
+        "key": "send_name",
+        "en": "Enter your name",
+        "ru": "Введите имя"
+    },
+    {
+        "key": "send_age",
+        "en": "Please send your age.",
+        "ru": "Пожалуйста, пришлите ваш возраст."
+    },
+    {
+        "key": "send_country",
+        "en": "Specify country of residence",
+        "ru": "Укажите страну проживания"
+    },
+    {
+        "key": "send_avatar",
+        "en": "Please send a picture of your avatar.",
+        "ru": "Пожалуйста, отправьте изображение вашего аватара."
+    },
+    {
+        "key": "welcome_text",
+        "en": "Welcome to our bot",
+        "ru": "Приветствуем вас в нашем боте"
+    }
+]
