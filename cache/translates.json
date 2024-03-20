@@ -1,5 +1,90 @@
 [
     {
+        "key": "user_other",
+        "en": "Other",
+        "ru": "Другой"
+    },
+    {
+        "key": "promo_activated",
+        "en": "The promo code has been successfully activated!",
+        "ru": "Промокод был успешно активирован!"
+    },
+    {
+        "key": "error_occurred",
+        "en": "Error. Try again later",
+        "ru": "Ошибка. Пропробуйте позже"
+    },
+    {
+        "key": "promo_active",
+        "en": "The promo code is activated!",
+        "ru": "Промокод активирован!"
+    },
+    {
+        "key": "promo_notfound",
+        "en": "Promo code not found",
+        "ru": "Промокод не найден"
+    },
+    {
+        "key": "promo_unactive",
+        "en": "The promo code has already been activated",
+        "ru": "Промокод уже был активирован"
+    },
+    {
+        "key": "about_project",
+        "en": "←-About project—>",
+        "ru": "←-О проекте—>"
+    },
+    {
+        "key": "enter_promo",
+        "en": "Enter the promo code",
+        "ru": "Введите промокод"
+    },
+    {
+        "key": "user_back",
+        "en": "Back",
+        "ru": "Назад"
+    },
+    {
+        "key": "subscribe_expire_today",
+        "en": "Your subscription expires today. \\nWould you like to extend it?",
+        "ru": "Ваша подписка истекает сегодня\\nЖелаете продлить?"
+    },
+    {
+        "key": "subscribe_expired_date",
+        "en": "Your subscription has expired {sub_end_date}.\\nWould you like to extend it?",
+        "ru": "Ваша подписка истекла {sub_end_date}.\\nЖелаете продлить?"
+    },
+    {
+        "key": "subscribe_active_days",
+        "en": "Your subscription expires in {difference} days.\\nWould you like to extend it?",
+        "ru": "Ваша подписка истекает через {difference} дней. \\nЖелаете продлить?"
+    },
+    {
+        "key": "havenot_subscribe",
+        "en": "You don't have subscriptions. Would you like to purchase?",
+        "ru": "У вас нет подписок. Желаете ли приобрести?"
+    },
+    {
+        "key": "user_have_promo",
+        "en": "I have a promo code",
+        "ru": "У меня есть промокод"
+    },
+    {
+        "key": "user_no",
+        "en": "No",
+        "ru": "Нет"
+    },
+    {
+        "key": "user_yes",
+        "en": "Yes",
+        "ru": "Да"
+    },
+    {
+        "key": "incorrect_gender",
+        "en": "Pleese, type correct gender",
+        "ru": "Пожалуйста, введите корректный пол"
+    },
+    {
         "key": "help",
         "en": "Help message",
         "ru": "Сообщение “помощь”"
@@ -10,17 +95,17 @@
         "ru": "Введите сообщение для рассылки"
     },
     {
-        "key": "menu",
-        "en": "❤️ Follow us on Twitter to follow all the updates of the bot:\n<link location>\n\n🏠 Menu:",
-        "ru": "❤️ Подписывайтесь на нас в Twitter , чтобы следить за всеми обновлениями  бота:\n<место для ссылки>\n\n🏠 Меню:"
+        "key": "user_menu",
+        "en": "Menu:",
+        "ru": "Меню:"
     },
     {
-        "key": "female",
+        "key": "user_female",
         "en": "Female",
         "ru": "Женский"
     },
     {
-        "key": "male",
+        "key": "user_male",
         "en": "Male",
         "ru": "Мужской"
     },
@@ -30,7 +115,7 @@
         "ru": "Пожалуйста, введите корректное имя"
     },
     {
-        "key": "pass",
+        "key": "user_pass",
         "en": "Pass",
         "ru": "Пропустить"
     },

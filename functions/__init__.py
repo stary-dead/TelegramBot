@@ -1,7 +1,7 @@
 """functions package"""
 
 from ._example_function import ExampleReply
-from .command_handlers import StartCommandHandler, MenuCommandHandler, HelpCommandHandler, AdminBroadcastCommandHandler
+from .command_handlers import StartCommandHandler, MenuCommandHandler, HelpCommandHandler, AdminBroadcastCommandHandler, AdminBroadcastVipCommandHandler
 from .command_handlers import NextPageCommandHandler, PreviousPageCommandHandler
 from .command_handlers import AuthorizationCommandHandler, MyAchievementsCommandHandler, EditDataCommandHandler, SubscriptionCommandHandler, VipStatusCommandHandler, AboutProjectCommandHandler, InviteFriendCommandHandler, FestivalCommandHandler, TibetTravelsCommandHandler, ChangeLanguageCommandHandler
 __all__ = ['ExampleReply', 'StartCommandHandler', 
@@ -20,6 +20,7 @@ __all__ = ['ExampleReply', 'StartCommandHandler',
            'InviteFriendCommandHandler',
            'FestivalCommandHandler',
            'TibetTravelsCommandHandler',
-           'AdminBroadcastCommandHandler'
+           'AdminBroadcastCommandHandler',
+           'AdminBroadcastVipCommandHandler'
            ]
 
